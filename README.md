@@ -32,3 +32,13 @@ This project combines **NLP techniques, sentiment-aware response generation, and
    ```bash
    git clone https://github.com/hiteshkavati/Chatbot-for-Mental-Health-Support.git
    cd Chatbot-for-Mental-Health-Support
+
+🔮 Future Improvements
+
+✅ Add sentiment analysis for more empathetic responses.
+
+✅ Incorporate deep learning NLP models (e.g., transformers).
+
+✅ Support voice input/output.
+
+✅ Collaborate with mental health professionals for curated resources.
